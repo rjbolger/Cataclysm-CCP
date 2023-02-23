@@ -1,0 +1,10 @@
+[
+  {
+    "type": "item_group",
+    "id": "military_standard_assault_rifles",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "ak74", "prob": 1, "charges": [ 0, 30 ] }
+    ]
+  }
+]
