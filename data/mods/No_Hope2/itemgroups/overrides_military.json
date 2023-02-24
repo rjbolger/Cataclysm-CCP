@@ -6,5 +6,10 @@
     "entries": [
       { "item": "ak74", "prob": 1, "charges": [ 0, 30 ] }
     ]
+  },
+  {
+    "type": "item_group",
+    "id": "military",
+    "copy-from": "military"
   }
 ]

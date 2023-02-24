@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ballistic_vest_esapi",
+    "category": "armor",
+    "type": "ARMOR",
+    "name": { "str": "Russian army ballistic vest" },
+    "copy-from": "ballistic_vest_esapi",
+    "variant_type": "generic",
+    "variants": []
+  },
+  {
+    "id": "level_3_vest",
+    "category": "armor",
+    "type": "ARMOR",
+    "//": "Based on security vests like https://www.masadagear.com/p/masada_armour_%E2%80%8Bun_bullet_proof_vest",
+    "name": { "str": "hard armor vest" },
+    "copy-from": "level_3_vest",
+    "variants": [
+      {
+        "id": "fema_armor_vest",
+        "name": { "str": "humanitarian ballistic vest" },
+        "description": "Bright blue in color, this slim armor vest was used by volunteers and officials from humanitarian groups during the first days of the Cataclysm before order broke down completely.",
+        "color": "blue",
+        "weight": 1
+      },
+      {
+        "id": "police_armor_vest",
+        "name": { "str": "police ballistic vest" },
+        "description": "This charcoal-colored body armor was once a common sight on police officers, and it provides adequate protection against small-caliber firearms in addition to featuring pouches to hold armor inserts.",
+        "weight": 1
+      },
+      {
+        "id": "national_guard_armor_vest",
+        "name": { "str": "Rosgvardiya ballistic vest" },
+        "description": "Styled in urban camo, this ballistic vest was issued to soldiers, and as things got worse, to volunteers as well.  It was designed to stand out after the chaos of the riots.",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "american_flag",
+    "repairs_like": "sheet",
+    "type": "ARMOR",
+    "name": { "str": "Russian flag" },
+    "description": "A large Russian flag, made to fly in even the worst conditions.",
+    "copy-from": "american_flag"
+  },
+  {
+    "id": "pride_flag",
+    "repairs_like": "sheet",
+    "type": "ARMOR",
+    "name": { "str": "Ukrainian flag" },
+    "description": "A large Ukrainian flag, made to fly in even the worst conditions.",
+    "copy-from": "pride_flag",
+    "variants": []
+  }
+]
