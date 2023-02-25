@@ -1,0 +1,30 @@
+[
+  {
+    "type": "item_group",
+    "id": "feral_handgun",
+    "copy_from": "feral_handgun",
+    "subtype": "distribution",
+    "extend": { "items": [ [ "makarov", 350 ] ] }
+  },
+  {
+    "type": "item_group",
+    "id": "feral_autogun",
+    "copy_from": "feral_autogun",
+    "subtype": "distribution",
+    "extend": { "items": [ [ "ak74", 350 ] ] }
+  },
+  {
+    "type": "item_group",
+    "id": "fired_mags_9mm",
+    "copy_from": "fired_mags_9mm",
+    "subtype": "distribution",
+    "extend": { "items": [ [ "makarovmag", 350 ] ] }
+  },
+  {
+    "type": "item_group",
+    "id": "feral_jackboot_shotgun",
+    "copy_from": "feral_jackboot_shotgun",
+    "subtype": "distribution",
+    "extend": { "items": [ [ "makarovmag", 350 ] ] }
+  }
+]

@@ -3,8 +3,8 @@
     "id": "ballistic_vest_esapi",
     "category": "armor",
     "type": "ARMOR",
-    "name": { "str": "Russian army ballistic vest" },
     "copy-from": "ballistic_vest_esapi",
+    "name": { "str": "Russian army ballistic vest" },
     "variant_type": "generic",
     "variants": []
   },
@@ -13,8 +13,8 @@
     "category": "armor",
     "type": "ARMOR",
     "//": "Based on security vests like https://www.masadagear.com/p/masada_armour_%E2%80%8Bun_bullet_proof_vest",
-    "name": { "str": "hard armor vest" },
     "copy-from": "level_3_vest",
+    "name": { "str": "hard armor vest" },
     "variants": [
       {
         "id": "fema_armor_vest",
@@ -52,6 +52,15 @@
     "name": { "str": "Ukrainian flag" },
     "description": "A large Ukrainian flag, made to fly in even the worst conditions.",
     "copy-from": "pride_flag",
+    "variants": []
+  },
+  {
+    "id": "state_flag",
+    "repairs_like": "sheet",
+    "type": "ARMOR",
+    "name": { "str": "Belarusian flag" },
+    "description": "A large Belarusian flag, made to fly in even the worst conditions.",
+    "copy-from": "state_flag",
     "variants": []
   }
 ]

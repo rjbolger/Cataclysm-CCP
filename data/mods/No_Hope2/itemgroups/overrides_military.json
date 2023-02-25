@@ -9,7 +9,20 @@
   },
   {
     "type": "item_group",
-    "id": "military",
-    "copy-from": "military"
+    "id": "nested_m4_carbine",
+    "subtype": "collection",
+    "copy-from": "nested_ak74"
+  },
+  {
+    "type": "item_group",
+    "id": "nested_m4_carbine_empty",
+    "subtype": "collection",
+    "copy-from": "nested_ak74"
+  },
+  {
+    "type": "item_group",
+    "id": "nested_m16_auto_rifle",
+    "subtype": "collection",
+    "copy-from": "nested_ak74"
   }
 ]
