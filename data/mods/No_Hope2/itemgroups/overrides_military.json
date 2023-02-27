@@ -17,41 +17,5 @@
         { "item": "makarov", "prob": 7 }
       ] 
     }
-  },
-  {
-    "type": "item_group",
-    "id": "nested_m4_carbine",
-    "subtype": "collection",
-    "ammo": 100,
-    "entries": [
-      { "item": "ak74", "charges-min": 0, "charges-max": 30 },
-      { "item": "ak74mag" },
-      { "item": "ak74mag", "prob": 50 },
-      { "group": "on_hand_545x39" }
-    ]
-  },
-  {
-    "type": "item_group",
-    "id": "nested_m4_carbine_empty",
-    "subtype": "collection",
-    "ammo": 100,
-    "entries": [
-      { "item": "ak74", "charges-min": 0, "charges-max": 30 },
-      { "item": "ak74mag" },
-      { "item": "ak74mag", "prob": 50 },
-      { "group": "on_hand_545x39" }
-    ]
-  },
-  {
-    "type": "item_group",
-    "id": "nested_m16_auto_rifle",
-    "subtype": "collection",
-    "ammo": 100,
-    "entries": [
-      { "item": "ak74", "charges-min": 0, "charges-max": 30 },
-      { "item": "ak74mag" },
-      { "item": "ak74mag", "prob": 50 },
-      { "group": "on_hand_545x39" }
-    ]
   }
 ]

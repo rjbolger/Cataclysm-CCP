@@ -2,158 +2,61 @@
   {
     "type": "region_overlay",
     "regions": [ "all" ],
+    "forest": {
+      "extras": {
+        "mx_bandits_ambush": 5,
+        "mx_bandits_grave": 2
+      }
+    },
+    "forest_thick": {
+      "extras": {
+        "mx_bandits_ambush": 5,
+        "mx_bandits_grave": 2
+      }
+    },
+    "forest_water": {
+      "extras": {
+        "mx_bandits_ambush": 5,
+        "mx_bandits_grave": 2
+      }
+    },
+    "field": {
+      "extras": {
+        "mx_bandits_ambush": 10,
+        "mx_bandits_campsite": 10,
+        "mx_bandits_grave": 10
+      }
+    },
+    "road": {
+      "extras": {
+        "mx_bandits_block": 1000,
+        "mx_bandits_ambush": 100
+      }
+    },
+    "build": {
+      "extras": {
+        "mx_bandits_ambush": 10,
+        "mx_bandits_hideout": 10
+      }
+    },
+    "subway": {
+      "extras": {
+        "mx_bandits_ambush": 10 
+      }
+    },
     "city": {
       "houses": {
-        "2storyModern01": 0,
-        "2storyModern02": 0,
-        "2StoryModern03": 0,
-        "2StoryModern04": 0,
-        "bungalow01": 0,
-        "bungalow02": 0,
-        "bungalow03": 0,
-        "bungalow04": 0,
-        "bungalow05": 0,
-        "bungalow06": 0,
-        "bungalow07": 0,
-        "bungalow08": 0,
-        "house_w_1": 0,
-        "house_two_story_basement": 0,
-        "multi_unit_two_story_basement": 0,
-        "multi_unit_three_story_basement": 0,
-        "house_crack1": 0,
-        "house_crack2": 0,
-        "house_crack3": 0,
-        "house_wooded": 0,
-        "house_prepper": 0,
-        "house_prepper2": 0,
-        "house_fortified": 0,
-        "duplex": 0,
-        "house_duplex2": 0,
-        "house_duplex3": 0,
-        "house_duplex4": 0,
-        "house_duplex5": 0,
-        "house_duplex6": 0,
-        "house_duplex7": 0,
-        "house_duplex8": 0,
-        "house_duplex9": 0,
-        "house_duplex10": 0,
-        "house_duplex11": 0,
-        "house_w_2": 0,
-        "house_w_3": 0,
-        "house_w_4": 0,
-        "house_w_5": 0,
-        "house_w_6": 0,
-        "house_01": 0,
-        "house_02": 0,
-        "house_03": 0,
-        "house_04": 0,
-        "house_05": 0,
-        "house_05ab": 0,
-        "house_06": 0,
-        "house_07": 0,
-        "house_08": 0,
-        "house_09": 0,
-        "house_09b": 0,
-        "house_10": 0,
-        "house_11": 0,
-        "house_12": 0,
-        "house_13": 0,
-        "house_14": 0,
-        "house_15": 0,
-        "house_16": 0,
-        "house_17": 0,
-        "house_18": 0,
-        "house_19": 0,
-        "house_20": 0,
-        "house_21": 0,
-        "house_22": 0,
-        "house_23": 0,
-        "house_24": 0,
-        "house_25": 0,
-        "house_26": 0,
-        "house_27": 0,
-        "house_28": 0,
-        "house_29": 0,
-        "house_30": 0,
-        "house_31": 0,
-        "house_32": 0,
-        "house_33": 0,
-        "house_34": 0,
-        "house_35": 0,
-        "house_36": 0,
-        "house_37": 0,
-        "house_38": 0,
-        "house_39": 0,
-        "house_40": 0,
-        "house_41": 0,
-        "house_42": 0,
-        "house_garage": 0,
-        "house_garage2": 0,
-        "house_garage3": 0,
-        "house_garage4": 0,
-        "house_garage5": 0,
-        "house_garage6": 0,
-        "house_garage7": 0,
-        "house_garage8": 0,
-        "rural_house1": 0,
-        "rural_house2": 0,
-        "garden_house_1": 0,
-        "house_toolshed": 0,
-        "house_suicide": 0,
-        "house_quiverfull": 0,
-        "house_rv": 0,
-        "house_porch": 0,
-        "house_patio": 0,
-        "house_modern_1": 0,
-        "house_library": 0,
-        "house_detatched1": 0,
-        "house_detatched2": 0,
-        "house_detatched3": 0,
-        "house_detatched4": 0,
-        "house_detatched5": 0,
-        "house_detatched6": 0,
-        "house_detatched7": 0,
-        "house_detatched8": 0,
-        "house_detatched9": 0,
-        "house_detatched10": 0,
-        "house_dogs": 0,
-        "house_gardener": 0,
-        "house_inner_garden": 0,
-        "urban_1_house": 0,
-        "urban_2_house": 0,
-        "urban_dd_house": 0,
-        "urban_3_house": 0,
-        "urban_4_house_basement": 0,
-        "urban_5_house": 0,
-        "urban_6_house": 0,
-        "urban_7_house_garden": 0,
-        "urban_8_house_brick_garden": 0,
-        "urban_9_house_garage_loft": 0,
-        "urban_10_house_brick_pool": 0,
-        "urban_11_house_brick": 0,
-        "urban_12_house": 0,
-        "urban_15_house": 0,
-        "urban_16_house_ranch": 0,
-        "urban_17_house_ranch": 0,
-        "urban_18_victorian": 0,
-        "emptyresidentiallot": 20,
-        "house_vacant": 0,
-        "house_vacant1": 0,
-        "house_vacant2": 0,
-        "house_vacant3": 0,
-        "apartments_con_new": 0,
-        "apartments_mod_new": 0,
-        "s_apt": 30,
-        "s_apt_2": 30,
-        "urban_13_dense_house_apt_house": 300,
-        "urban_14_dense_house_mart_food": 200,
-        "urban_25_dense_diner_apt": 200,
-        "urban_29_dense_row": 200,
-        "school": 15,
-        "motel_city": 10,
-        "fishing_pond_city": 10,
-        "trailerpark_city": 15,
-        "railroad_city": 5
+        "s_apt": 3000,
+        "s_apt_2": 3000,
+        "urban_13_dense_house_apt_house": 30000,
+        "urban_14_dense_house_mart_food": 20000,
+        "urban_25_dense_diner_apt": 20000,
+        "urban_29_dense_row": 20000,
+        "school": 1500,
+        "motel_city": 1000,
+        "fishing_pond_city": 1000,
+        "trailerpark_city": 1500,
+        "railroad_city": 500
       }
     },
     "weather": {
@@ -178,6 +81,77 @@
         "snowstorm",
         "acidrain"
       ]
+    }
+  },
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "map_extras": {
+      "forest": { "extras": { "mx_portal": 0, "mx_portal_in": 0, "mx_spider": 0, "mx_exocrash_1": 0, "mx_exocrash_2": 0 } },
+      "forest_thick": {
+        "extras": {
+          "mx_portal": 0,
+          "mx_portal_in": 0,
+          "mx_shia": 0,
+          "mx_spider": 0,
+          "mx_jabberwock": 0,
+          "mx_exocrash_1": 0,
+          "mx_exocrash_2": 0
+        }
+      },
+      "forest_water": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_spider": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0,
+          "mx_nest_dermatik": 0 
+        } 
+      },
+      "field": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0 
+        } 
+      },
+      "agricultural": {
+        "extras": {
+          "mx_nest_wasp": 0
+        }
+      },
+      "road": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0 
+        } 
+      },
+      "build": {
+        "extras": { 
+          "mx_house_spider": 0, 
+          "mx_house_wasp": 0, 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0 
+        }
+      },
+      "marloss": { 
+        "chance": 0, 
+        "extras": { 
+          "mx_marloss_pilgrimage": 0 
+        } 
+      },
+      "subway": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0
+        } 
+      }
     }
   }
 ]
