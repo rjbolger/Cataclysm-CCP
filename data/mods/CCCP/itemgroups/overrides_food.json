@@ -1,0 +1,8 @@
+[
+    {
+        "type": "item_group",
+        "id": "liquor_and_spirits",
+        "copy-from": "liquor_and_spirits",
+        "extend": { "items": [ { "item": "vodka", "prob": 100 } ] }
+    }
+]
