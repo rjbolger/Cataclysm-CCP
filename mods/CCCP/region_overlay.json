@@ -1,0 +1,164 @@
+[
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "forest": {
+      "extras": {
+        "mx_bandits_ambush": 5,
+        "mx_bandits_grave": 2
+      }
+    },
+    "forest_thick": {
+      "extras": {
+        "mx_bandits_ambush": 5,
+        "mx_bandits_grave": 2
+      }
+    },
+    "forest_water": {
+      "extras": {
+        "mx_bandits_ambush": 5,
+        "mx_bandits_grave": 2
+      }
+    },
+    "field": {
+      "extras": {
+        "mx_bandits_ambush": 10,
+        "mx_bandits_campsite": 10,
+        "mx_bandits_grave": 10
+      }
+    },
+    "road": {
+      "extras": {
+        "mx_bandits_block": 1000,
+        "mx_bandits_ambush": 100
+      }
+    },
+    "build": {
+      "extras": {
+        "mx_bandits_ambush": 10,
+        "mx_bandits_hideout": 10
+      }
+    },
+    "subway": {
+      "extras": {
+        "mx_bandits_ambush": 10 
+      }
+    },
+    "city": {
+      "shop_radius": 200,
+      "shop_sigma": 0,
+      "park_radius": 20,
+      "park_sigma": 20,
+      "houses": {
+        "apartments_con_new": 0,
+        "apartments_mod_new": 0,
+        "s_apt": 0,
+        "s_apt_2": 0
+      },
+      "shops": {
+        "city_block_2": 3000,
+        "s_apt": 500,
+        "s_apt_2": 500,
+        "urban_13_dense_house_apt_house": 3000,
+        "urban_14_dense_house_mart_food": 2000,
+        "urban_25_dense_diner_apt": 2000,
+        "urban_29_dense_row": 2000,
+        "apartments_con_new": 100,
+        "apartments_mod_new": 100
+      }
+    },
+    "weather": {
+      "base_temperature": 5.5,
+      "base_humidity": 50.0,
+      "base_pressure": 1000,
+      "base_wind": 4.4,
+      "base_wind_distrib_peaks": 80,
+      "base_wind_season_variation": 50,
+      "weather_types": [
+        "clear",
+        "sunny",
+        "cloudy",
+        "light_drizzle",
+        "drizzle",
+        "rain",
+        "rainstorm",
+        "thunder",
+        "lightning",
+        "flurries",
+        "snowing",
+        "snowstorm"
+      ]
+    }
+  },
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "map_extras": {
+      "forest": { "extras": { "mx_portal": 0, "mx_portal_in": 0, "mx_spider": 0, "mx_exocrash_1": 0, "mx_exocrash_2": 0 } },
+      "forest_thick": {
+        "extras": {
+          "mx_portal": 0,
+          "mx_portal_in": 0,
+          "mx_shia": 0,
+          "mx_spider": 0,
+          "mx_jabberwock": 0,
+          "mx_exocrash_1": 0,
+          "mx_exocrash_2": 0
+        }
+      },
+      "forest_water": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_spider": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0,
+          "mx_nest_dermatik": 0 
+        } 
+      },
+      "field": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0 
+        } 
+      },
+      "agricultural": {
+        "extras": {
+          "mx_nest_wasp": 0
+        }
+      },
+      "road": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0 
+        } 
+      },
+      "build": {
+        "extras": { 
+          "mx_house_spider": 0, 
+          "mx_house_wasp": 0, 
+          "mx_portal": 0, 
+          "mx_portal_in": 0, 
+          "mx_exocrash_1": 0, 
+          "mx_exocrash_2": 0 
+        }
+      },
+      "marloss": { 
+        "chance": 0, 
+        "extras": { 
+          "mx_marloss_pilgrimage": 0 
+        } 
+      },
+      "subway": { 
+        "extras": { 
+          "mx_portal": 0, 
+          "mx_portal_in": 0
+        } 
+      }
+    }
+  }
+]

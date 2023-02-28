@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mre_bag",
+    "type": "GENERIC",
+    "category": "container",
+    "name": { "str": "military ration bag" },
+    "copy-from": "mre_bag"
+  },
+  {
+    "id": "mre_package",
+    "type": "GENERIC",
+    "category": "container",
+    "name": { "str": "military ration package" },
+    "copy-from": "mre_package"
+  },
+  {
+    "id": "mre_bag_small",
+    "type": "GENERIC",
+    "category": "container",
+    "name": { "str": "small military ration bag" },
+    "copy-from": "mre_bag_small"
+  },
+  {
+    "id": "ifak_pouch",
+    "type": "GENERIC",
+    "category": "container",
+    "name": { "str": "military first aid pouch", "str_pl": "military first aid pouch" },
+    "copy-from": "ifak_pouch"
+  }
+]
