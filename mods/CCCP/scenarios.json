@@ -6,15 +6,7 @@
     "points": -1,
     "description": "Whether due to stubbornness, ignorance, or just plain bad luck, you missed the evacuation, and are stuck in a large building full of the risen dead.",
     "allowed_locs": [
-      "sloc_mall_loading_area",
-      "sloc_mall_food_court",
-      "sloc_apartments_rooftop",
-      "sloc_apartments_rooftop2",
-      "sloc_hospital",
-      "sloc_school",
-      "sloc_hotel_rooftop",
-      "sloc_office_tower_rooftop",
-      "sloc_cathedral_rooftop"
+      "sloc_house"
     ],
     "start_name": "In Large Building",
     "professions": [

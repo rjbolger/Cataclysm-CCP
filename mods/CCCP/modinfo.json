@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "id": "cccp",
-    "name": "Cataclysm: Cold CLimate Protocol",
+    "name": "Cataclysm: Cold Climate Preparation",
     "authors": [ "Vorti" ],
     "maintainers": [ "Vorti" ],
     "description": "WIP [EX]USSR total conversion for Cataclysm: Dark Days Ahead",
@@ -25,7 +25,7 @@
     "type": "region_overlay",
     "regions": [ "all" ],
     "overmap_feature_flag_settings": { 
-	  "blacklist": [ "FUNGAL", "BEE", "MI-GO", "TRIFFID", "LAB", "ANT", "SLIME" ] 
+	  "whitelist": [ "CLASSIC" ] 
     }
   },
   {
