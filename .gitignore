@@ -4,3 +4,6 @@
 !mods
 /mods/*
 !mods/CCCP
+!names
+names/*
+!names/en.json
