@@ -31,9 +31,9 @@
           "sourdough_bread"
         ],
         "entries": [ 
-          { "group": "full_1st_aid" },
+          { "group": "full_1st_aid_ifak_pouch" },
           { "item": "vodka", "container-item": "flask_hip", "custom-flags": [ "no_auto_equip" ]  },
-          { "item": "caviar", "charges": 4, "container-item": "can_food" },
+          { "item": "cured_roe", "charges": 4, "container-item": "can_food" },
           { "item": "light_plus_battery_cell", "charges": 150, "container-item": "flashlight" },
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_hunting", "container-item": "sheath" },

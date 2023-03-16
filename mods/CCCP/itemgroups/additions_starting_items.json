@@ -1,0 +1,18 @@
+[
+  {
+    "id": "full_1st_aid_ifak_pouch",
+    "type": "item_group",
+    "subtype": "collection",
+    "container-item": "ifak_pouch",
+    "items": [
+      { "item": "medical_tape", "charges": 20 },
+      { "item": "tourniquet_upper" },
+      { "item": "aspirin", "charges": 10 },
+      { "item": "disinfectant" },
+      { "item": "saline" },
+      { "item": "bandages", "charges": 10, "count": 10 },
+      { "item": "adhesive_bandages", "count": 10 },
+      { "item": "alcohol_wipes", "count": 10 }
+    ]
+  }
+]
