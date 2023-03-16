@@ -13,29 +13,32 @@
     "items": {
       "both": {
         "items": [
-          "pants_army",
-          "combat_shirt",
+          "jeans",
           "socks",
           "sweatshirt",
           "boots",
           "cig",
-          "elbow_pads",
+          "boxer_briefs",
           "daypack",
-          "kevlar",
-          "balclava",
-          "knee_pads",
-          "beret",
+          "coat_rain",
+          "gloves_black",
+          "hat_cotton",
+          "knit_scarf",
           "wristwatch",
-          "water_clean"
+          "water_clean",
+          "whistle_multitool",
+          "mess_tin",
+          "sourdough_bread"
         ],
-        "entries": [
+        "entries": [ 
+          { "group": "full_1st_aid" },
+          { "item": "vodka", "container-item": "flask_hip", "custom-flags": [ "no_auto_equip" ]  },
+          { "item": "caviar", "charges": 4, "container-item": "can_food" },
+          { "item": "light_plus_battery_cell", "charges": 150, "container-item": "flashlight" },
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
-          { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "chestrig" },
+          { "item": "knife_hunting", "container-item": "sheath" },
           { "item": "lighter", "charges": 100 },
-          { "item": "ak74", "ammo-item": "545", "charges": 30, "contents-item": [ "shoulder_strap" ] },
-          { "item": "ak74mag", "ammo-item": "545", "charges": 30 },
-          { "item": "ak74mag", "ammo-item": "545", "charges": 30 }
+          { "item": "makarov", "ammo-item": "9x18mm", "charges": 8, "container-item": "holster" }
         ]
       }
     }

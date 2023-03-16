@@ -1,0 +1,8 @@
+[
+  {
+    "id": "cured_roe",
+    "type": "COMESTIBLE",
+    "copy-from": "cured_roe",
+    "name": { "str_sp": "caviar" }
+  }
+]
