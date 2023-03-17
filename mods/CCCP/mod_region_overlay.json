@@ -53,7 +53,11 @@
         "apartments_con_new": 0,
         "apartments_mod_new": 0,
         "s_apt": 0,
-        "s_apt_2": 0
+        "s_apt_2": 0,
+        "urban_13_dense_house_apt_house": 0,
+        "urban_14_dense_house_mart_food": 0,
+        "urban_25_dense_diner_apt": 0,
+        "urban_29_dense_row": 0
       },
       "parks": {
         "apartments_con_new": 1000,

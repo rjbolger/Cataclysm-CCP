@@ -10,9 +10,7 @@
       { "item": "aspirin", "charges": 10 },
       { "item": "disinfectant" },
       { "item": "saline" },
-      { "item": "bandages", "charges": 10, "count": 10 },
-      { "item": "adhesive_bandages", "count": 10 },
-      { "item": "alcohol_wipes", "count": 10 }
+      { "item": "bandages", "charges": 1, "count": 10 }
     ]
   }
 ]
