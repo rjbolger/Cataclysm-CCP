@@ -1,0 +1,34 @@
+[
+  {
+    "id": "nested_atomic_battery",
+    "type": "nested_category",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "name": "atomic batteries",
+    "description": "Recipes related to constructing complex atomic battery cells.",
+    "skill_used": "electronics",
+    "nested_category_data": [
+    ],
+    "difficulty": 6
+  },
+  {
+    "id": "nested_modified_gunmods_weapons",
+    "type": "nested_category",
+    "activity_level": "fake",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "name": "auxiliary weapons",
+    "description": "Recipes related to modifying secondary weapons to attach to a wider variety of guns and crossbows.",
+    "skill_used": "fabrication",
+    "nested_category_data": [
+      "m26_mass_mod",
+      "knife_combat_mod",
+      "m203_mod",
+      "m320_mod_mod",
+      "masterkey_mod",
+      "sword_bayonet_mod",
+      "u_shotgun_mod"
+    ]
+  }
+]
