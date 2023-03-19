@@ -45,9 +45,9 @@
       }
     },
     "city": {
-      "shop_radius": 60,
+      "shop_radius": 20,
       "shop_sigma": 0,
-      "park_radius": 80,
+      "park_radius": 35,
       "park_sigma": 0,
       "houses": {
         "apartments_con_new": 0,
